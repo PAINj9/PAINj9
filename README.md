@@ -10,22 +10,11 @@ I am an experienced IT professional with a knack for troubleshooting and optimiz
 ## 🛠️ **Skills**
 
 - **Programming:** HTML, CSS, JavaScript, React JS, Node.js, Express
-- **Content Creation:** Video Editing, Graphic Design, Online Marketing
 - **Database Management:** MySQL, PostgreSQL
 - **Problem Solving:** Analytical Thinking, Troubleshooting
 - **Communication:** Effective Communication, Team Collaboration
 - **Languages:** Spanish (Native), Portuguese (Advanced), English (Advanced), Danish (Learning)
 
-
-
-## 🎬 **Additional Experience**
-
-- **Content Creator:** Developed engaging content for various platforms, including video editing, graphic design, and online marketing.
-- **Editor:** Edited videos and graphics to create high-quality digital media.
-- **Programming Projects:** Worked on diverse projects involving web development, API design, and more.
-
-
----
 
 ## 📞 **Contact Me**
 
