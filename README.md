@@ -22,6 +22,6 @@ Thank you for visiting my GitHub profile! If you’re interested in collaboratin
 
 - 📧 **Email:** [MAIL](mailto:juancruzastradaduran80@gmail.com)
 - 🌐 **LinkedIn:** [LINK](https://www.linkedin.com/in/juan-cruz-astrada-duran-7b5196219/)
-- 👔 **Porfolio:** [LINK]([https://github.com/PAINj9](https://astradaportfolio.netlify.app/))
+- 👔 **Porfolio:** [LINK](https://github.com/PAINj9](https://astradaportfolio.netlify.app/)
 ---
 
